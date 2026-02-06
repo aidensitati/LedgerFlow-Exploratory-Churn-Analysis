@@ -1,12 +1,9 @@
 # The Sensitivity of High-Tier Clients in SaaS Products
 
-**Hook:**  
 Explore how intake configurations shape churn risk in SaaS, with a focus on enterprise clients and high pricing exposure.
-
-**Subtext:**  
+  
 This repository consolidates the LedgerLoop exploratory churn analysis, highlighting structural intake risks and cohort dynamics.
 
----
 
 ## Project Stages
 
